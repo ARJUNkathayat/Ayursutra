@@ -86,8 +86,8 @@ npm run dev
 (Add images or GIFs of your UI – login, therapy selection, doctor booking, dashboard)
 
 #Login
-![login] (Screenshots/Login.png)
----
+
+<p align="center"> <img src="Screenshots/Login.png" alt="Login" width="400"> </p> <p align="center"> <img src="Screenshots/Register.png" alt="Register" width="400"> </p> <p align="center"> <img src="Screenshots/Main.png" alt="Main Dashboard" width="400"> </p> <p align="center"> <img src="Screenshots/SelectTherapy.png" alt="Select Therapy" width="400"> </p> <p align="center"> <img src="Screenshots/AvailableDoctor.png" alt="Available Doctor" width="400"> </p> <p align="center"> <img src="Screenshots/DoctorCard.png" alt="Doctor Card" width="400"> </p> <p align="center"> <img src="Screenshots/booking.png" alt="Booking Page" width="400"> </p> <p align="center"> <img src="Screenshots/AllTherapies.png" alt="All Therapies" width="400"> </p> <p align="center"> <img src="Screenshots/Ai.png" alt="AI Suggestions" width="400"> </p> <p align="center"> <img src="Screenshots/All2.png" alt="Other Screens" width="400"> </p> <p align="center"> <img src="Screenshots/pbd.png" alt="PBD" width="400"> </p> <p align="center"> <img src="Screenshots/pbd2.png" alt="PBD2" width="400"> </p>
 
 ## 📖 Usage
 
